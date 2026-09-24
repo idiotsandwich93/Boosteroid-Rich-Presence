@@ -1,21 +1,33 @@
-MIT License
+# Boosteroid Presence Source-Available License
 
-Copyright (c) 2026 Daniel
+Copyright (c) 2026 Daniel Byelich. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The source code for Boosteroid Presence is made publicly visible solely for
+transparency, inspection, auditing, and security review.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may:
+
+1. View the source code on its official repository.
+2. Download a copy of the source code solely for private, non-commercial
+   inspection, auditing, or security review.
+3. Download and run unmodified official binary releases of Boosteroid Presence
+   for personal, non-commercial use.
+
+You may not, without prior written permission from the copyright holder:
+
+1. Use the source code, in whole or in part, to create or operate another
+   application, service, library, or derivative work.
+2. Copy, modify, adapt, translate, merge, publish, distribute, sublicense,
+   relicense, sell, or commercially exploit the source code or software.
+3. Redistribute official or modified binary releases.
+4. Remove or alter copyright, attribution, or license notices.
+
+No patent, trademark, or other intellectual-property rights are granted by
+this license. Any third-party components remain subject to their respective
+licenses.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
