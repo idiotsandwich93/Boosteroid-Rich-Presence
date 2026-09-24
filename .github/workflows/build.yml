@@ -13,7 +13,7 @@ jobs:
       - name: Test
         run: swift test
       - name: Build app
-        run: bash scripts/build_app.sh
+        run: zsh scripts/build_app.sh
       - name: Verify package
         run: unzip -t "outputs/Boosteroid-Presence-macOS.zip"
       - uses: actions/upload-artifact@v6
