@@ -7,16 +7,16 @@ on:
 
 jobs:
   macos:
-    runs-on: macos-14
+    runs-on: macos-15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Test
         run: swift test
       - name: Build app
-        run: ./scripts/build_app.sh
+        run: bash scripts/build_app.sh
       - name: Verify package
         run: unzip -t "outputs/Boosteroid-Presence-macOS.zip"
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         with:
           name: Boosteroid-Presence-macOS
           path: outputs/Boosteroid-Presence-macOS.zip
