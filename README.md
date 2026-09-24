@@ -51,4 +51,7 @@ Boosteroid Presence reads Boosteroid's local activity log and communicates with 
 
 ## License
 
-[MIT](LICENSE)
+Boosteroid Presence is proprietary, source-visible software. The source is
+published for transparency and security review, but reuse, modification,
+redistribution, sublicensing, and commercial use are not permitted without
+prior written permission. See the [license](LICENSE) for the complete terms.
